@@ -6,4 +6,9 @@ router.get('/', function(req, res, next) {
   res.render('index');
 });
 
+/* GET 404 page. */
+router.get('*', function(req, res, next) {
+  res.redirect('/');
+});
+
 module.exports = router;
