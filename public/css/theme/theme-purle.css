@@ -1,0 +1,114 @@
+/* ==============================
+   MAIN COLOR
+   ----- purle #A182D2 ----------
+   
+   ALL COLORS
+   green - #00c8aa
+   blue - #00b2ca
+   dark - #171724
+   red-1 - #ff0030
+   red-2 - #FF4C05
+   dark-blue - #3446FF
+   purle - #A182D2
+   orange - #E48400
+   pink - #FF4C83
+   
+   default - #222
+   ============================== */
+body ::-moz-selection {
+  background: #a182d2;
+}
+body ::selection {
+  background: #a182d2;
+}
+.progress-box .progress-bar {
+  background-color: #a182d2;
+}
+.service-item i {
+  color: #a182d2;
+}
+.service-item:hover {
+  border-color: #a182d2;
+i
+}
+.filter li a:hover {
+  border-bottom: 1px solid #a182d2;
+}
+.filter li.active a {
+  border-bottom: 1px solid #a182d2;
+}
+figure.effect-hover figcaption {
+  background: #a182d2;
+}
+.team-item figcaption small {
+  color: #a182d2;
+}
+.pricing-inner:hover {
+  border-color: #a182d2;
+}
+.pricing-inner:hover .pricing-icon,
+.pricing-inner:hover .pricing-title {
+  color: #a182d2;
+}
+.pricing-main .pricing-inner {
+  border-color: #a182d2;
+}
+.pricing-main .pricing-icon,
+.pricing-main .pricing-title {
+  color: #a182d2;
+}
+.pricing-main .pricing-button .btn {
+  background: #a182d2;
+}
+.contact-item span,
+.contact-item i {
+  color: #a182d2;
+}
+.btn-continue-reading {
+  color: #a182d2;
+}
+.btn-continue-reading:hover {
+  color: #a182d2;
+}
+.pagination > li.active a,
+.pagination > li.active span {
+  border-color: #a182d2;
+  color: #a182d2;
+}
+.features-icon {
+  color: #a182d2;
+}
+.btn-coffee.btn-color {
+  background: #a182d2;
+}
+.btn-coffee.btn-color-w {
+  border: 2px solid #a182d2;
+  background: #a182d2;
+}
+span.higl {
+  color: #a182d2 !important;
+}
+.team-slider .owl-page span {
+  border: 1px solid #a182d2;
+}
+.team-slider .owl-page.active span {
+  background: #a182d2;
+}
+@media only screen and (max-width: 768px) {
+  .overlay-left {
+    width: 100%;
+    background: #a182d2;
+  }
+  .overlay-left div,
+  .overlay-left h1 {
+    color: #fff;
+  }
+  .overlay-right {
+    display: none;
+  }
+  .btn-scroll-alt:before,
+  .btn-scroll-alt:after {
+    border-bottom: 1px solid #fff;
+    border-right: 1px solid #fff;
+  }
+}
